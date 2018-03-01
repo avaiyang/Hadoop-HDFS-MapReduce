@@ -6,6 +6,7 @@ NOTE: punctuation will NOT count; so the words is ‘(1991)’ and ‘1991’ ar
 
 <b>e.g.</b> line:
 <b>Input:</b> (k,v) = (1,“the cat in the hat is the best cat in the hat”)
+
 <b>Output:</b> (k2,v2) = (“the cat”, 1), (“cat in”,2),(‘in the’,2),(‘the hat’,2’),(‘hat is’,1), etc
 
 If the line contains a single word, then that becomes the ‘pair’.
